@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 alert("World is the best")
 alert("I love the world")
 Alert("Welcome")
 Alert("I love my parents")
+=======
+alert("World is the best!")
+alert("I love the world!")
+>>>>>>> master
